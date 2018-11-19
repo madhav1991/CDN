@@ -99,5 +99,10 @@ Fill out the **Configure Your Origin** field: To configure this field, you must 
         ![Configure HTTPS](images/ssl-cert-options.png)
 
       **NOTE** You must set the **Access Control List** (ACL) for each Object in your Bucket to "public-read" with your cloud object storage provider.
+      
+**Step 4:**
+
+You must select **I have read the Master Service Agreement and agree to the terms therin** at the bottom right.
+
 
 Select the **Create** button in the bottom right corner to create your CDN.
